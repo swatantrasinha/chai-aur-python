@@ -3,6 +3,7 @@
 
 ## Table of Contents
 - Installation
+[Install (docs/README.md)]
 - Usage
 - Contributing
 
